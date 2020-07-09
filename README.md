@@ -9,6 +9,7 @@ I'm a web developer who is passionate about making websites. Currently In love w
 ## Find me around the web 🌎:
 - Social network <a href="https://twitter.com/MuhdFrhan">Twitter</a> 🐦
 - Sharing updates on <a href="https://www.linkedin.com/in/farhan-hadi/">LinkedIn</a> 💼
+- Sharing new knowledge that I learnt <a href="https://www.farhanhadi.me">Personal Blog</a> ✍🏻
 <!--
 **xitox97/xitox97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
