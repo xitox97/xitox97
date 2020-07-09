@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi, I'm Farhan 👋🏻👨🏻‍💻
 
+I'm a web developer who is passionate about making websites. Currently In love with TALL stacks:
+- <a href="https://tailwindcss.com">TailwindCSS</a>
+- <a href="https://github.com/alpinejs/alpine">AlpineJS</a>
+- <a href="https://laravel.com">Laravel</a>
+- <a href="https://laravel-livewire.com">Livewire</a>
+
+## Find me around the web 🌎:
+- Social network <a href="https://twitter.com/MuhdFrhan">Twitter</a> 🐦
+- Sharing updates on <a href="https://www.linkedin.com/in/farhan-hadi/">LinkedIn</a> 💼
 <!--
 **xitox97/xitox97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
