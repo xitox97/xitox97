@@ -1,6 +1,6 @@
 # Hi, I'm Farhan 👋🏻👨🏻‍💻
 
-I'm a web developer who is passionate about making websites. Currently In love with TALL stacks:
+I'm a web developer who is passionate about making websites. Currently In love❤️ with TALL stacks:
 - <a href="https://tailwindcss.com">TailwindCSS</a>
 - <a href="https://github.com/alpinejs/alpine">AlpineJS</a>
 - <a href="https://laravel.com">Laravel</a>
