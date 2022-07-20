@@ -11,7 +11,7 @@ I'm a web developer who is passionate about making websites. Currently In love�
 ## Find me around the web 🌎:
 - Social network <a href="https://twitter.com/MuhdFrhan">Twitter</a> 🐦
 - Sharing updates on <a href="https://www.linkedin.com/in/farhan-hadi/">LinkedIn</a> 💼
-- Sharing new knowledge that I learnt <a href="https://www.farhanhadi.me">Personal Blog</a> ✍🏻
+- Sharing new knowledge that I learnt <a href="https://farhanhadi.netlify.app/">Personal Blog</a> ✍🏻
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=xitox97&show_icons=true&hide_border=true&theme=radical)
